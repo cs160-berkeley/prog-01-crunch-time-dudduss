@@ -8,7 +8,7 @@ Sampath Duddu ([duddus@berkeley.edu](mailto:your_email@berkeley.edu))
 
 ## Demo Video
 
-See [your demo video title here] (https://link_to_your_video)
+See MyFitnessApp Walkthrough (https://youtu.be/uyC9C2sCVLk)
 
 ## Screenshots
 
@@ -16,6 +16,7 @@ See [your demo video title here] (https://link_to_your_video)
 <img src="screenshots/selectingExercise.png" height="400" alt="Screenshot"/>
 <img src="screenshots/burningCaloriesWeight2.png" height="400" alt="Screenshot"/>
 <img src="screenshots/otherWorkoutsCalories.png" height="400" alt="Screenshot"/>
+<img src="screenshots/typingInCalories.png" height="400" alt="Screenshot"/>
 
 ## Acknowledgments
 
