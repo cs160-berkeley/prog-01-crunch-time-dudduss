@@ -12,7 +12,10 @@ See [your demo video title here] (https://link_to_your_video)
 
 ## Screenshots
 
-<img src="screenshots/main.png" height="400" alt="Screenshot"/>
+<img src="screenshots/mainScreen.png" height="400" alt="Screenshot"/>
+<img src="screenshots/selectingExercise.png" height="400" alt="Screenshot"/>
+<img src="screenshots/burningCaloriesWeight2.png" height="400" alt="Screenshot"/>
+<img src="screenshots/otherWorkoutsCalories.png" height="400" alt="Screenshot"/>
 
 ## Acknowledgments
 
