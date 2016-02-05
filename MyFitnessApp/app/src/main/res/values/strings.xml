@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">MyFitnessApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="fitnessTitle">Welcome To MyFitnessApp!</string>
+    <string name="enterExercise">Enter Exercise</string>
+    <string name="reps">#reps</string>
+    <string name="minutes">#minutes</string>
+    <string name="caloriesButton">Calculate Calories</string>
+    <string name="compareOther">Compare Other Exercises</string>
+
+    <string-array name="exercises">
+        <item>Pushup</item>
+        <item>Situp</item>
+        <item>Squats</item>
+        <item>Leg-Lift</item>
+        <item>Plank</item>
+        <item>Jumping Jacks</item>
+        <item>Pullup</item>
+        <item>Cycling</item>
+        <item>Walking</item>
+        <item>Jogging</item>
+        <item>Swimming</item>
+        <item>Stair Climbing</item>
+    </string-array>
+
+</resources>
